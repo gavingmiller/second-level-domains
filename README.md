@@ -6,7 +6,7 @@ A list of second level domains. Pull requests always welcome.
 
 Contributors
 ==========
-* Alexander Anklam
+* [Alexander Anklam](http://anklam.ch/)
 
 License
 ==========
