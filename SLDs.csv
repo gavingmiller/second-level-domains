@@ -395,6 +395,7 @@
 .il,.muni.il
 .il,.idf.il
 .in,.in
+.in,.4fd.in
 .in,.co.in
 .in,.firm.in
 .in,.net.in
@@ -1304,6 +1305,7 @@
 .uk,.sch.uk
 .uk,.scot.uk
 .uk,.soc.uk
+.us,.4fd.us
 .us,.dni.us
 .us,.fed.us
 .us,.isa.us
